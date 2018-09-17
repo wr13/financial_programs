@@ -1,4 +1,4 @@
-# Welcome to Financial_Programming
+## Welcome to Financial_Programming
 
 The goal of this project is to create financial applications and programs using Python and RStudio. These programs will be for the purpose of research, modeling, and live valuation. 
 
