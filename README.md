@@ -1,6 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Financial_Programming
 
-You can use the [editor on GitHub](https://github.com/wr13/financial_programs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The goal of this project is to create financial applications and programs using Python and RStudio. These programs will be for the purpose of research, modeling, and live valuation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[editor on GitHub](https://github.com/wr13/financial_programs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
